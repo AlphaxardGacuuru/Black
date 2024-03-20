@@ -4,7 +4,7 @@
 	"start_url": ".",
 	"display": "standalone",
 	"theme_color": "#232323",
-	"background_color": "#232323",
+	"background_color": "#FFF",
 	"orientation": "portrait-primary",
 	"description": "Landin page for Black",
 	"icons": [
