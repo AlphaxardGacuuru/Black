@@ -7,8 +7,8 @@ font author: Johan Aakerlund
 font author site: https://aajohan.deviantart.com/
 
 
-icon designer: Renee Ramsey-Passmore
-icon designer link: /Renee Ramsey-Passmore
+icon designer: Simon Child
+icon designer link: /Simon Child
         
 
 fontColor: {"hex":"#232323"}
